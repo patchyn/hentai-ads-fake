@@ -1,0 +1,13 @@
+{
+  "name": "fake-hentai-ads-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.56.0",
+    "typescript": "^5.4.0"
+  },
+  "type": "module"
+}
