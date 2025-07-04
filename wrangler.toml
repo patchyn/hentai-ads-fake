@@ -1,5 +1,5 @@
 name = "fake-hentai-ads-api"
 compatibility_date = "2025-07-04"
-main = "api/index.ts"
+main = "index.ts"
 workers_dev = true
 usage_model = "bundled"
